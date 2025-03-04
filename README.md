@@ -1,1 +1,1 @@
-Doing rust for 30 days
+Doing rust for 30 days - Completed
